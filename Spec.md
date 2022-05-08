@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/101053692/162641751-618b75d6-d5e4-4495
   
   #### PDF Russian version
     
-[<LetterRU.pdf - link>](<https://github.com/whatsupW/whatsupW/blob/main/Dear%20RussiansRU.pdf?raw=true>)
+[<LetterRU.pdf - link>](<https://github.com/whatsupW/-/blob/main/Dear%20RussiansRU.pdf?raw=true>)
 
 ## Вернуться на главную страницу
 
