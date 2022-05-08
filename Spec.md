@@ -10,9 +10,9 @@
 
 [9 мая 2022 г.](https://github.com/whatsupW/-/blob/main/9maja.md)
 
-# Русинизм
+# Pашизм
 
-[Русинизм - Link](https://github.com/whatsupW/-/blob/main/%D0%A0%D1%83%D1%81%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC.md)
+[Pашизм - Link](https://github.com/whatsupW/-/blob/main/%D0%A0%D1%83%D1%81%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC.md)
 
 # Пасха 24 апреля 2022 г. Второй месяц войны
 
