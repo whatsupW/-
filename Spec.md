@@ -28,7 +28,7 @@
 
 ## Тексты для русских, которые можно скопировать и отправить на Whatsapp wa.1920.in в ответ на их пропаганду. Не знаешь русский, воспользуйся переводчиком. И вот доказательства.
 
-[Kramatorsk - link](<https://github.com/whatsupW/whatsupW/blob/main/Kramatorsk.md>)
+[Kramatorsk - link](<https://github.com/whatsupW/-/blob/main/Kramatorsk.md>)
 
 ## Перед ударом по Краматорску из оккупированного Шахтерска пустили ракету
 
