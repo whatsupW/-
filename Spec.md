@@ -34,14 +34,6 @@
 
 ![Телеграмма огонь.jpg](https://github.com/whatsupW/whatsupW/blob/main/img/3/Telegram-wystrza%C5%82.jpg)
 
-### Вы можете загрузить ссылку - скопируйте ее
-
-https://github.com/whatsupW/whatsupW/blob/main/Kramatorsk.md
-
-### Нажав ниже, вы перейдете к содержанию - здесь вы найдете тексты, фотографии и видео для копирования.
-
-[<Kramatorsk - link>](<https://github.com/whatsupW/whatsupW/blob/main/Kramatorsk.md>)
-
 # Видео, показывающие войну на Украине - Гутин назвал спецоперацию - Русский мир
     
 [<Movies - link>](https://github.com/whatsupW/whatsupW/blob/main/Filmy.md)
