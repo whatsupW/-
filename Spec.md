@@ -20,25 +20,11 @@
 
 # Гуманитарный коридор 20 апреля 2022 г.
 
-[Гуманитарный коридор 20 апреля 2022 г - link](https://github.com/whatsupW/whatsupW/blob/main/Korytarz_humanitarny.md)
+[Гуманитарный коридор 20 апреля 2022 г - link](https://github.com/whatsupW/-/blob/main/Gumanitarnyy_koridor.md)
 
-# Как помочь Украине с [1920.in](https://1920.in).
-
-[1920_in_struction - link](https://github.com/whatsupW/whatsupW/blob/main/1920_in_struction.md)
-
-## Беседа
-
-[Беседа - link](https://github.com/whatsupW/whatsupW/blob/main/Conversation.md)
-
-## Дополнительные примеры
-    
-[Дополнительные примеры - link](https://github.com/whatsupW/whatsupW/blob/main/The_next_arguments.md) 
-     
- 
 ## Преступления русских
     
 [Следующие аргументы - link](https://github.com/whatsupW/whatsupW/blob/main/img/zbrodnie/zbrodnie.md)
-
 
 ## Тексты для русских, которые можно скопировать и отправить на Whatsapp wa.1920.in в ответ на их пропаганду. Не знаешь русский, воспользуйся переводчиком. И вот доказательства.
 
