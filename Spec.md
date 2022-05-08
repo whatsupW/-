@@ -16,7 +16,7 @@
 
 # Пасха 24 апреля 2022 г. Второй месяц войны
 
-[Пасха 24 апреля 2022 г. Второй месяц войны - link](https://github.com/whatsupW/whatsupW/blob/main/Wielkanoc.md)
+[Пасха 24 апреля 2022 г. Второй месяц войны - link](https://github.com/whatsupW/-/blob/main/Paskha.md)
 
 # Гуманитарный коридор 20 апреля 2022 г.
 
