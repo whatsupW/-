@@ -12,9 +12,7 @@
 
 # Русинизм
 
-[Русинизм - Link](https://github.com/whatsupW/Rusnazizm/blob/main/1/Rusinizm.md)
-
-[Русские, которые объясняют правду](https://github.com/whatsupW/Rusnazizm/blob/main/1/Rosjanie.md)
+[Русинизм - Link](https://github.com/whatsupW/-/blob/main/%D0%A0%D1%83%D1%81%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC.md)
 
 # Пасха 24 апреля 2022 г. Второй месяц войны
 
