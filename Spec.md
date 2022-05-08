@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/101053692/162641751-618b75d6-d5e4-4495
 
 ## Текст первый - Письмо россиянам от марта 2022 г.
     
-[<LetterRU - link>](<https://github.com/whatsupW/-/blob/main/Pis'mo%2Cmd>)
+[<LetterRU - link>](<https://github.com/whatsupW/-/blob/main/Pismo.md>)
   
   #### PDF Russian version
     
