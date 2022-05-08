@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/101053692/162614518-284e046f-7809-481d
 
 ## Bucha
 
-[<Bucha - link>](<https://github.com/whatsupW/whatsupW/blob/main/Bucha.md>)
+[<Bucha - link>](<https://github.com/whatsupW/-/blob/main/Bucha.md>)
 
 https://github.com/whatsupW/whatsupW/blob/main/img/3/Bucha_przed_wojna.mp4?raw=true
 
