@@ -31,6 +31,4 @@ https://user-images.githubusercontent.com/101053692/167290005-59b51919-9f0d-468e
 ![Пожары](https://user-images.githubusercontent.com/101053692/167291951-3cdb0547-be33-42a1-a9a0-5b785f150d76.jpg)
 
 
-## Вернуться на главную страницу
-
-https://github.com/-/
+## [Вернуться на главную страницу](https://github.com/whatsupW/-/blob/main/Spec.md)
