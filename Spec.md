@@ -1,6 +1,6 @@
 # 9 мая 2022 г., часть 2
 
-[9 мая 2022 г., часть 2](https://github.com/whatsupW/whatsupW/blob/main/9maj.md)
+[9 мая 2022 г., часть 2](https://github.com/whatsupW/-/blob/main/9maj.md)
 
 # 5 мая 2022 г. Взрывы
 
