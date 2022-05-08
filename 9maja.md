@@ -5,7 +5,7 @@
 
 Файлы больше 10 Мб, поэтому даю по частям.
 
-[Co prowadzi i jak wygląda rosja - wojna - link](https://github.com/whatsupW/whatsupW/blob/main/img/6/wojna.mp4?raw=true)
+[К чему ведет и как выглядит Россия - война- link](https://github.com/whatsupW/whatsupW/blob/main/img/6/wojna.mp4?raw=true)
 
 [Украинские и российские военные - 1 линии](https://github.com/whatsupW/whatsupW/blob/main/img/6/Wojskowi_ukrainscy_a_rosjanie1.mp4?raw=true)
 
