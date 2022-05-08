@@ -24,7 +24,7 @@
 
 ## Преступления русских
     
-[Следующие аргументы - link](https://github.com/whatsupW/whatsupW/blob/main/img/zbrodnie/zbrodnie.md)
+[Следующие аргументы - link](https://github.com/whatsupW/-/blob/main/Prestupleniya%20russkikh.md)
 
 ## Тексты для русских, которые можно скопировать и отправить на Whatsapp wa.1920.in в ответ на их пропаганду. Не знаешь русский, воспользуйся переводчиком. И вот доказательства.
 
