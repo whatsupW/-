@@ -52,16 +52,15 @@ https://github.com/whatsupW/whatsupW/blob/main/img/3/Bucha_przed_wojna.mp4?raw=t
 
 https://user-images.githubusercontent.com/101053692/162641751-618b75d6-d5e4-4495-9e87-d1a14498d1ba.mp4
 
-
 ![Bucha1.jpg](https://github.com/whatsupW/whatsupW/blob/main/img/3/Bucha1.jpg?raw=true)
 
 ## Gostomel
 
-[<Gostomel - link>](<https://github.com/whatsupW/whatsupW/blob/main/Gostomel.md>)
+[<Gostomel - link>](<https://github.com/whatsupW/-/blob/main/Gostomel.md>)
 
 ## Бедность в России.
 
-[<Бедность в России. - link>](<https://github.com/whatsupW/whatsupW/blob/main/Poverty_in_Russia.md>)
+[<Бедность в России. - link>](<https://github.com/whatsupW/-/blob/main/Bednost.md>)
 
 ![Бедность в России..jpg](https://github.com/whatsupW/whatsupW/blob/main/img/3/1roski_budynek.jpg?raw=true)
 
