@@ -66,11 +66,9 @@ https://user-images.githubusercontent.com/101053692/162641751-618b75d6-d5e4-4495
 
 ## Фото до и после
 
-  [<Фото до и после - link>](<https://github.com/whatsupW/whatsupW/blob/main/Zdj%C4%99cia_przed_i_po.md>)
+  [<Фото до и после - link>](<https://github.com/whatsupW/-/blob/main/Foto_do_i_posle.md>)
   
 ![Харьковская специализированная школа №134](https://github.com/whatsupW/whatsupW/blob/main/img/1/2%20Charkowska%20specjalistyczna%20szko%C5%82a%20%E2%84%96134.png?raw=true)
-
-https://github.com/whatsupW/whatsupW/blob/main/Zdj%C4%99cia_przed_i_po.md
 
 ## Текст первый - Письмо россиянам от марта 2022 г.
     
