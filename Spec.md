@@ -8,7 +8,7 @@
 
 # 9 мая 2022 г.
 
-[9 мая 2022 г.](https://github.com/whatsupW/whatsupW/blob/main/9_maj_2022.md)
+[9 мая 2022 г.](https://github.com/whatsupW/-/blob/main/9maja.md)
 
 # Русинизм
 
