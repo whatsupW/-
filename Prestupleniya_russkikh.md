@@ -38,18 +38,15 @@ https://github.com/whatsupW/whatsupW/blob/main/img/zbrodnie/Rus_zostawiaja_soich
 
 https://github.com/whatsupW/-/blob/main/Spec.md
 
+[Следующие аргументы - link](https://github.com/whatsupW/-/blob/main/Prestupleniya_russkikh.md)
 
-
-## Bucha. Burned bodies
-Bucza. Spalone ciała 
+## Буча. Сожженные тела 
 
 https://github.com/whatsupW/whatsupW/blob/main/Bucha.md?raw=true
 
-## Bodies and rape on the road
-Ciała i gwałt na drodze
+## Тела и изнасилование на дороге
 
 https://github.com/whatsupW/whatsupW/blob/main/img/zbrodnie/Ciala_na_autostradzie.mp4?raw=true
-
 
 ## [Вернуться на главную страницу](https://github.com/whatsupW/-/blob/main/Spec.md)
 
