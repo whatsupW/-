@@ -4,7 +4,7 @@
 
 # 5 мая 2022 г. Взрывы
 
-[5 мая 2022 г. Взрывы - Link](https://github.com/whatsupW/whatsupW/blob/main/Wybuchy.md)
+[5 мая 2022 г. Взрывы - Link](https://github.com/whatsupW/-/blob/main/5%D0%BC%D0%B0%D1%8F.md)
 
 # 9 мая 2022 г.
 
